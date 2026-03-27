@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/telegram.js": {
+      "runtime": "nodejs20.x"
+    },
+    "api/dispatch.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
